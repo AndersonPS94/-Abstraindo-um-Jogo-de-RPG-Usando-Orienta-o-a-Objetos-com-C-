@@ -1,0 +1,13 @@
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\bin\Debug\netcoreapp3.1\dotnet.exe
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\bin\Debug\netcoreapp3.1\dotnet.deps.json
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\bin\Debug\netcoreapp3.1\dotnet.runtimeconfig.json
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\bin\Debug\netcoreapp3.1\dotnet.runtimeconfig.dev.json
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\bin\Debug\netcoreapp3.1\dotnet.dll
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\bin\Debug\netcoreapp3.1\dotnet.pdb
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\obj\Debug\netcoreapp3.1\dotnet.csprojAssemblyReference.cache
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\obj\Debug\netcoreapp3.1\dotnet.AssemblyInfoInputs.cache
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\obj\Debug\netcoreapp3.1\dotnet.AssemblyInfo.cs
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\obj\Debug\netcoreapp3.1\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\obj\Debug\netcoreapp3.1\dotnet.dll
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\obj\Debug\netcoreapp3.1\dotnet.pdb
+C:\Users\dson_\OneDrive\Área de Trabalho\dotnet\obj\Debug\netcoreapp3.1\dotnet.genruntimeconfig.cache
